@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class Test2 {
+public class Test14 {
 
 	@Test
 	public void TC001() throws InterruptedException {
